@@ -7,3 +7,4 @@ var $grid = $('#product-list').isotope({
         var filterValue = $(this).attr('data-filter');
         $grid.isotope({ filter: filterValue });
       });
+      
