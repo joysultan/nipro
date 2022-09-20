@@ -261,3 +261,15 @@ body{
 }
 /* choose end */
 
+/* works start */
+.works{
+        background-image: url(images/BG.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+       margin-top: 220px;
+        margin-bottom: 130px;
+        height: 60vh;
+}
+/* works end */
+
